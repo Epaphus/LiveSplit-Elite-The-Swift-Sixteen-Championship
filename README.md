@@ -19,6 +19,15 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 2 – The Empire Hustle
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-thargoid-structure-scramble-2-swift-16-championship-race-2.616507/>
+
+The AutoSplitter will start the timer once you undock from Artemis Lodge.
+
+Since you can pick any Thargoid sites, after collecting the sensor the splits will be based on landing and leaving the Thargoid sites rather than normal jump to system ones until you get back to Celaeno.
+
+
 ### Race 1 – The Empire Hustle
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-the-empire-hustle-8th-16th-april-3309-swift-sixteen-championship-race-1.615693/>
