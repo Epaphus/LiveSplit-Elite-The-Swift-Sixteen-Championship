@@ -20,11 +20,11 @@ startup {
 	vars.journalEntries.Add(
 		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Liftoff"", ""PlayerControlled"":true, .*\}"));
 	vars.journalEntries.Add(
-		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Touchdown"", ""PlayerControlled"":true(, ""Taxi"":(true|false), ""Multicrew"":(true|false))?, .*, ""NearestDestination"":""Unknown structure scan"" \}"));
+		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Touchdown"", ""PlayerControlled"":true(, ""Taxi"":(true|false), ""Multicrew"":(true|false))?, .*\}"));
 	vars.journalEntries.Add(
 		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Liftoff"", ""PlayerControlled"":true, .*\}"));
 	vars.journalEntries.Add(
-		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Touchdown"", ""PlayerControlled"":true(, ""Taxi"":(true|false), ""Multicrew"":(true|false))?, .*, ""NearestDestination"":""Unknown structure scan"" \}"));
+		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Touchdown"", ""PlayerControlled"":true(, ""Taxi"":(true|false), ""Multicrew"":(true|false))?, .*\}"));
 	vars.journalEntries.Add(
 		new System.Text.RegularExpressions.Regex(@"\{ ""timestamp"":""(?<timestamp>.*)"", ""event"":""Liftoff"", ""PlayerControlled"":true, .*\}"));
 	vars.journalEntries.Add(
