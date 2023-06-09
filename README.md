@@ -17,7 +17,19 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 4. Right click, Save Layout As…, save to wherever. This means your changes in the layout (e.g. changing colours) and associating the auto splitter will not be lost on updates.
 5. Right click, Save Splits As…, save to wherever. This ensures that your personal times will not be lost on updates.
 
+**Please note times provided by Livesplit are for your own referance, Buckyball offical timing is done via the in-game clock.**
+
+
 ## Races
+
+### Race 3 – Tunnel-ish Vision
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-tunnel-ish-vision-swift-16-championship-race-3.617429/>
+
+The AutoSplitter will start the timer once you undock from Gaensler Station. 
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
+**Note:** Splits will be triggered if you drop out near the orbiting body instead of at the Installations/Captial Ships. For example if you crash into the planet.
 
 ### Race 2 – The Empire Hustle
 
