@@ -22,13 +22,21 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 4 – Double Trouble
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-double-trouble-swift-16-championship-race-4.618478/>
+
+The AutoSplitter will start the timer once you undock from Hoshide Dock 
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
+
 ### Race 3 – Tunnel-ish Vision
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-tunnel-ish-vision-swift-16-championship-race-3.617429/>
 
 The AutoSplitter will start the timer once you undock from Gaensler Station. 
 
-Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.  
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
 **Note:** Splits will be triggered if you drop out near the orbiting body instead of at the Installations/Captial Ships. For example if you crash into the planet.
 
 ### Race 2 – The Empire Hustle
