@@ -1,7 +1,7 @@
-#4.0 (2023-07-21)
+# 4.0 (2023-07-21)
 LiveSplit files and AutoSplitter for the “Double Trouble” race.
 
-#3.0 (2023-06-09)
+# 3.0 (2023-06-09)
 LiveSplit files and AutoSplitter for the “Tunnel-ish Vision” race.
 
 # 2.1 (2023-05-06)
