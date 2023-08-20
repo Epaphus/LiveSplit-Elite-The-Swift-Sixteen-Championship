@@ -22,6 +22,21 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 5 - Pareco Run
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-pareco-run-swift-16-championship-race-5.619312/>
+
+The AutoSplitter will start the timer once you undock from Neville Ring. It will enforce docking at the race’s stations in the correct order. After 20 minutes you get one last stop, then the timer will pause and reset once you dock back at Neville Ring.
+
+There are three settings:
+
+- `Write the number of stops to a file, e.g. for a stream overlay`: Does exactly that. You can find the file in `My Documents`, the full path will be in the tooltip. Disabled by default.
+- `Automatically reset when docking back at Neville Ring`: Automatically reset when you have finished a run and dock back at Neville Ring. Enabled by default.
+- `Automatically stop the timer after death`: Automatically stop the timer should you meet an untimely demise. Disabled by default.
+
+**Note**: If your _next stop is Neville Ring_ when the time limit is reached, you will either have to reset LiveSplit manually after docking there or re-dock to have the AutoSplitter reset it for you.  
+If you are using a custom layout you will need to make sure the timing method under the timer settings is set to use "game time" instead of "real time" for the 20 minute timer to work correctly.
+
 ### Race 4 – Double Trouble
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-double-trouble-swift-16-championship-race-4.618478/>

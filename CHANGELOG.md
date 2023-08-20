@@ -1,3 +1,6 @@
+# 5.0 (2023-08-20)
+LiveSplit files and AutoSplitter for the “Pareco Run” race.
+
 # 4.0 (2023-07-21)
 LiveSplit files and AutoSplitter for the “Double Trouble” race.
 
