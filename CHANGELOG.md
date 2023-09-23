@@ -1,3 +1,6 @@
+# 6.0 (2023-09-23)
+LiveSplit files and AutoSplitter for the “Braking Badly” race.
+
 # 5.0 (2023-08-20)
 LiveSplit files and AutoSplitter for the “Pareco Run” race.
 

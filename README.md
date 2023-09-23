@@ -22,6 +22,15 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 6 – Braking Badly
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents.619912/>
+
+The AutoSplitter will start the timer once you undock from the Fleet Carrier "A1A Car Wash" or "Los Pollos Hermanos"
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
+
+
 ### Race 5 - Pareco Run
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-pareco-run-swift-16-championship-race-5.619312/>
