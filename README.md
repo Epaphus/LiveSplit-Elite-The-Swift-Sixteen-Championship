@@ -22,6 +22,16 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 7 – Prison Brake II
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-prison-brake-ii-brake-harder-swift-16-championship-race-7.620687/>
+
+The AutoSplitter will start the timer once you undock from Kelleam Ring. 
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
+
+Livesplit doesn't know how far you are from the penal colony so will trigger when you land regardless of your distance to the penal colony. 
+
 ### Race 6 – Braking Badly
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents.619912/>

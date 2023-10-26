@@ -1,3 +1,6 @@
+# 7.0 (2023-10-26)
+LiveSplit files and AutoSplitter for the “Prison Brake II” race.
+
 # 6.0 (2023-09-23)
 LiveSplit files and AutoSplitter for the “Braking Badly” race.
 
