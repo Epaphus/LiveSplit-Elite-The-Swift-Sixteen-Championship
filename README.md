@@ -22,6 +22,14 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 8 – Close Encounters of the Bucky Kind
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-close-encounters-of-the-bucky-kind-swift-16-championship-race-8.621338/>
+
+The AutoSplitter will start the timer once you undock from Robert Aitken Orbital.
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the `n`th stop.
+
 ### Race 7 – Prison Brake II
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-prison-brake-ii-brake-harder-swift-16-championship-race-7.620687/>

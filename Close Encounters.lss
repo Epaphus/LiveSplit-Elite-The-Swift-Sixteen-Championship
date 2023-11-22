@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Elite Dangerous</GameName>
-  <CategoryName>Prison Brake II</CategoryName>
+  <CategoryName>Close Encounters of the Bucky Kind</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -27,7 +27,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Drop at first penal colony</Name>
+      <Name>-Drop at first station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -36,14 +36,14 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Land at first penal colony</Name>
+      <Name>-Dock at first station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
-    </Segment>    
+    </Segment>
     <Segment>
       <Name>{First System}Leave first system</Name>
       <Icon />
@@ -63,7 +63,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Drop at second penal colony</Name>
+      <Name>-Drop at second station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -72,14 +72,14 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Land at second station</Name>
+      <Name>-Dock at second station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
-    </Segment>    
+    </Segment>
     <Segment>
       <Name>{Second System}Leave second system</Name>
       <Icon />
@@ -99,7 +99,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Drop at third penal colony</Name>
+      <Name>-Drop at third station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -108,14 +108,14 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Land at third penal colony</Name>
+      <Name>-Dock at third station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
-    </Segment>    
+    </Segment>
     <Segment>
       <Name>{Third System}Leave third system</Name>
       <Icon />
@@ -126,7 +126,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Jump to Slink's Eye</Name>
+      <Name>-Enter fourth system</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -135,7 +135,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Drop at Kelleam Ring</Name>
+      <Name>-Drop at fourth station</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -144,7 +144,43 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Return to Kelleam Ring}Dock at Kelleam Ring</Name>
+      <Name>-Dock at fourth station</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Fourth System}Leave fourth system</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Jump to Kured</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Drop at Kuchner Vision</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Return to Kuchner Vision}Dock at Kuchner Vision</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />

@@ -1,3 +1,6 @@
+# 8.0 (2023-11-22)
+LiveSplit files and AutoSplitter for the “Close Encounters of the Bucky Kind” race.
+
 # 7.0 (2023-10-26)
 LiveSplit files and AutoSplitter for the “Prison Brake II” race.
 
